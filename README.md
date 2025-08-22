@@ -4,11 +4,11 @@ Screen specifications of modern Apple devices, including iPhone, iPad, MacBook, 
 
 ## Devices Covered
 
-- **[iPhone](devices/iphone.md)** - All modern iPhone models (iPhone X and newer)
-- **iPad** - iPad, iPad Air, iPad Pro, iPad mini (coming soon)
-- **MacBook** - MacBook Air, MacBook Pro (coming soon)
-- **iMac** - iMac, iMac Pro (coming soon)
-- **Apple Watch** - All Apple Watch series and sizes (coming soon)
+- **[iPhone](devices/iphone.md)** — All modern iPhone models (iPhone X and newer)
+- **iPad** — iPad, iPad Air, iPad Pro, iPad mini (coming soon)
+- **MacBook** — MacBook Air, MacBook Pro (coming soon)
+- **iMac** — iMac, iMac Pro (coming soon)
+- **Apple Watch** — All Apple Watch series and sizes (coming soon)
 
 ## What’s Included
 
