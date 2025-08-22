@@ -35,7 +35,7 @@ Complete screen specifications for modern iPhone models.
 
 ## Notes
 
-### Key Changes Over Time
+### Key Changes
 - **iPhone 14 Pro**: Introduction of Dynamic Island, Always-On Display
 - **iPhone 13 Pro**: Introduction of 120Hz displays (ProMotion)
 - **iPhone 12**: Switch from LCD to OLED
