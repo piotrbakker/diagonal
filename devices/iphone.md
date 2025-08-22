@@ -30,6 +30,7 @@ Complete screen specifications for modern iPhone models.
 | iPhone 11 | 6.1" | 828 × 1792 | 414 × 898 | 326 | 60Hz |
 | iPhone XS Max | 6.5" | 1242 × 2688 | 414 × 898 | 458 | 60Hz |
 | iPhone XS | 5.8" | 1125 × 2436 | 375 × 812 | 458 | 60Hz |
+| iPhone XR | 6.1" | 828 × 1792 | 414 × 896 | 326 | 60Hz |
 | iPhone X | 5.8" | 1125 × 2436 | 375 × 812 | 458 | 60Hz |
 
 ## Notes
