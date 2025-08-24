@@ -19,6 +19,11 @@ For each device, you’ll find:
 - **PPI** — Pixels per inch (pixel density)
 - **Refresh rate** — Refresh rates in Hz
 
+## Formats
+
+- **Markdown** — Human-readable format in `devices/` folder
+- **JSON** — Machine-readable format in `data/` folder
+
 ## Quick Reference
 
 ### iPhone
