@@ -41,6 +41,5 @@ Complete screen specifications for modern iPhone models.
 - **iPhone 12**: Switch from LCD to OLED
 - **iPhone X**: Introduction of Face ID, removal of home button
 
-## Sources
-- [Apple iPhone Technical Specifications](https://support.apple.com/specs/iphone)
-- [Apple Developer Documentation - iOS Device Compatibility](https://developer.apple.com/support/required-device-capabilities/)
+## Source
+- [Apple iPhone Technical Specifications](https://support.apple.com/docs/iphone)
