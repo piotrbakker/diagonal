@@ -1,0 +1,210 @@
+[
+    {
+      "model": "iPhone 16 Pro Max",
+      "diagonal_inches": 6.9,
+      "resolution_pixels": [1320, 2868],
+      "resolution_points": [440, 956],
+      "ppi": 460,
+      "refresh_rate": 120
+    },
+    {
+      "model": "iPhone 16 Pro",
+      "diagonal_inches": 6.3,
+      "resolution_pixels": [1206, 2622],
+      "resolution_points": [402, 874],
+      "ppi": 460,
+      "refresh_rate": 120
+    },
+    {
+      "model": "iPhone 16 Plus",
+      "diagonal_inches": 6.7,
+      "resolution_pixels": [1290, 2796],
+      "resolution_points": [430, 932],
+      "ppi": 460,
+      "refresh_rate": 60
+    },
+    {
+      "model": "iPhone 16",
+      "diagonal_inches": 6.1,
+      "resolution_pixels": [1179, 2556],
+      "resolution_points": [393, 852],
+      "ppi": 460,
+      "refresh_rate": 60
+    },
+    {
+      "model": "iPhone 16e",
+      "diagonal_inches": 6.1,
+      "resolution_pixels": [1170, 2532],
+      "resolution_points": [390, 844],
+      "ppi": 460,
+      "refresh_rate": 60
+    },
+    {
+      "model": "iPhone 15 Pro Max",
+      "diagonal_inches": 6.7,
+      "resolution_pixels": [1290, 2796],
+      "resolution_points": [430, 932],
+      "ppi": 460,
+      "refresh_rate": 120
+    },
+    {
+      "model": "iPhone 15 Pro",
+      "diagonal_inches": 6.1,
+      "resolution_pixels": [1179, 2556],
+      "resolution_points": [393, 852],
+      "ppi": 460,
+      "refresh_rate": 120
+    },
+    {
+      "model": "iPhone 15 Plus",
+      "diagonal_inches": 6.7,
+      "resolution_pixels": [1290, 2796],
+      "resolution_points": [430, 932],
+      "ppi": 460,
+      "refresh_rate": 60
+    },
+    {
+      "model": "iPhone 15",
+      "diagonal_inches": 6.1,
+      "resolution_pixels": [1179, 2556],
+      "resolution_points": [393, 852],
+      "ppi": 460,
+      "refresh_rate": 60
+    },
+    {
+      "model": "iPhone 14 Pro Max",
+      "diagonal_inches": 6.7,
+      "resolution_pixels": [1290, 2796],
+      "resolution_points": [430, 932],
+      "ppi": 460,
+      "refresh_rate": 120
+    },
+    {
+      "model": "iPhone 14 Pro",
+      "diagonal_inches": 6.1,
+      "resolution_pixels": [1179, 2556],
+      "resolution_points": [393, 852],
+      "ppi": 460,
+      "refresh_rate": 120
+    },
+    {
+      "model": "iPhone 14 Plus",
+      "diagonal_inches": 6.7,
+      "resolution_pixels": [1284, 2778],
+      "resolution_points": [428, 926],
+      "ppi": 458,
+      "refresh_rate": 60
+    },
+    {
+      "model": "iPhone 14",
+      "diagonal_inches": 6.1,
+      "resolution_pixels": [1170, 2532],
+      "resolution_points": [390, 844],
+      "ppi": 460,
+      "refresh_rate": 60
+    },
+    {
+      "model": "iPhone 13 Pro Max",
+      "diagonal_inches": 6.7,
+      "resolution_pixels": [1284, 2778],
+      "resolution_points": [428, 926],
+      "ppi": 458,
+      "refresh_rate": 120
+    },
+    {
+      "model": "iPhone 13 Pro",
+      "diagonal_inches": 6.1,
+      "resolution_pixels": [1170, 2532],
+      "resolution_points": [390, 844],
+      "ppi": 460,
+      "refresh_rate": 120
+    },
+    {
+      "model": "iPhone 13",
+      "diagonal_inches": 6.1,
+      "resolution_pixels": [1170, 2532],
+      "resolution_points": [390, 844],
+      "ppi": 460,
+      "refresh_rate": 60
+    },
+    {
+      "model": "iPhone 12 Pro Max",
+      "diagonal_inches": 6.7,
+      "resolution_pixels": [1284, 2778],
+      "resolution_points": [428, 926],
+      "ppi": 458,
+      "refresh_rate": 60
+    },
+    {
+      "model": "iPhone 12 Pro",
+      "diagonal_inches": 6.1,
+      "resolution_pixels": [1170, 2532],
+      "resolution_points": [390, 844],
+      "ppi": 460,
+      "refresh_rate": 60
+    },
+    {
+      "model": "iPhone 12",
+      "diagonal_inches": 6.1,
+      "resolution_pixels": [1170, 2532],
+      "resolution_points": [390, 844],
+      "ppi": 460,
+      "refresh_rate": 60
+    },
+    {
+      "model": "iPhone 11 Pro Max",
+      "diagonal_inches": 6.5,
+      "resolution_pixels": [1242, 2688],
+      "resolution_points": [414, 898],
+      "ppi": 458,
+      "refresh_rate": 60
+    },
+    {
+      "model": "iPhone 11 Pro",
+      "diagonal_inches": 5.8,
+      "resolution_pixels": [1125, 2436],
+      "resolution_points": [375, 812],
+      "ppi": 458,
+      "refresh_rate": 60
+    },
+    {
+      "model": "iPhone 11",
+      "diagonal_inches": 6.1,
+      "resolution_pixels": [828, 1792],
+      "resolution_points": [414, 898],
+      "ppi": 326,
+      "refresh_rate": 60
+    },
+    {
+      "model": "iPhone XS Max",
+      "diagonal_inches": 6.5,
+      "resolution_pixels": [1242, 2688],
+      "resolution_points": [414, 898],
+      "ppi": 458,
+      "refresh_rate": 60
+    },
+    {
+      "model": "iPhone XS",
+      "diagonal_inches": 5.8,
+      "resolution_pixels": [1125, 2436],
+      "resolution_points": [375, 812],
+      "ppi": 458,
+      "refresh_rate": 60
+    },
+    {
+      "model": "iPhone X",
+      "diagonal_inches": 5.8,
+      "resolution_pixels": [1125, 2436],
+      "resolution_points": [375, 812],
+      "ppi": 458,
+      "refresh_rate": 60
+    },
+    {
+      "model": "iPhone XR",
+      "diagonal_inches": 6.1,
+      "resolution_pixels": [828, 1792],
+      "resolution_points": [414, 896],
+      "ppi": 326,
+      "refresh_rate": 60
+    }
+]
