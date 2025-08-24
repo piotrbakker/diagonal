@@ -5,7 +5,7 @@ Screen specifications of modern Apple devices, including iPhone, iPad, MacBook, 
 ## Devices Covered
 
 - **[iPhone](devices/iphone.md)** — All modern iPhone models (iPhone X and newer)
-- **iPad** — iPad, iPad Air, iPad Pro, iPad mini (coming soon)
+- **[iPad](devices/ipad.md)** — iPad mini, iPad, iPad Air, and iPad Pro (2018 onwards)
 - **MacBook** — MacBook Air, MacBook Pro (coming soon)
 - **iMac** — iMac, iMac Pro (coming soon)
 - **Apple Watch** — All Apple Watch series and sizes (coming soon)
@@ -21,8 +21,8 @@ For each device, you’ll find:
 
 ## Formats
 
-- **Markdown** — Human-readable format in `devices/` folder
-- **JSON** — Machine-readable format in `data/` folder
+- **Markdown** — Human-readable format in [devices folder](devices)
+- **JSON** — Machine-readable format in [data folder](data)
 
 ## Quick Reference
 
@@ -36,10 +36,22 @@ For each device, you’ll find:
 
 [View all iPhone specifications →](devices/iphone.md)
 
+### iPad
+| Model | Diagonal Size | Resolution (px) | Resolution (pt) | PPI | Refresh Rate |
+|-------|---------------|-----------------|-----------------|-----|--------------|
+| iPad Pro 13-inch (M4) | 13.0" | 2752 × 2064 | 1376 × 1032 | 264 | 120Hz |
+| iPad Pro 11-inch (M4) | 11.1" | 2420 × 1668 | 1210 × 834 | 264 | 120Hz |
+| iPad Air 13-inch (M3) | 12.9" | 2732 × 2048 | 1366 × 1024 | 264 | 60Hz |
+| iPad Air 11-inch (M3) | 10.9" | 2360 × 1640 | 1180 × 820 | 264 | 60Hz |
+| iPad (A16) | 10.9" | 2360 × 1640 | 1180 × 820 | 264 | 60Hz |
+| iPad mini (6th gen.) | 8.3" | 2266 × 1488 | 1133 × 744 | 326 | 60Hz |
+
+[View all iPad specifications →](devices/ipad.md)
+
 ## Source
 
 [Apple Technical Specifications](https://support.apple.com/specs/)
 
 ---
 
-Last updated: August 22, 2025
+Last updated: August 24, 2025
