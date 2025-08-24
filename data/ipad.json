@@ -1,0 +1,138 @@
+[
+  {
+    "model": "iPad Pro 13-inch (M4)",
+    "diagonal_inches": 13.0,
+    "resolution_pixels": [2752, 2064],
+    "resolution_points": [1376, 1032],
+    "ppi": 264,
+    "refresh_rate": 120
+  },
+  {
+    "model": "iPad Pro 12.9-inch (5th gen.)",
+    "diagonal_inches": 12.9,
+    "resolution_pixels": [2732, 2048],
+    "resolution_points": [1366, 1024],
+    "ppi": 264,
+    "refresh_rate": 120
+  },
+  {
+    "model": "iPad Pro 12.9-inch (4th gen.)",
+    "diagonal_inches": 12.9,
+    "resolution_pixels": [2732, 2048],
+    "resolution_points": [1366, 1024],
+    "ppi": 264,
+    "refresh_rate": 120
+  },
+  {
+    "model": "iPad Pro 11-inch (M4)",
+    "diagonal_inches": 11.1,
+    "resolution_pixels": [2420, 1668],
+    "resolution_points": [1210, 834],
+    "ppi": 264,
+    "refresh_rate": 120
+  },
+  {
+    "model": "iPad Pro 11-inch (3rd gen.)",
+    "diagonal_inches": 11.0,
+    "resolution_pixels": [2388, 1668],
+    "resolution_points": [1194, 834],
+    "ppi": 264,
+    "refresh_rate": 120
+  },
+  {
+    "model": "iPad Pro 11-inch (2nd gen.)",
+    "diagonal_inches": 11.0,
+    "resolution_pixels": [2388, 1668],
+    "resolution_points": [1194, 834],
+    "ppi": 264,
+    "refresh_rate": 120
+  },
+  {
+    "model": "iPad Pro 11-inch (1st gen.)",
+    "diagonal_inches": 11.0,
+    "resolution_pixels": [2388, 1668],
+    "resolution_points": [1194, 834],
+    "ppi": 264,
+    "refresh_rate": 120
+  },
+  {
+    "model": "iPad Air 13-inch (M3)",
+    "diagonal_inches": 12.9,
+    "resolution_pixels": [2732, 2048],
+    "resolution_points": [1366, 1024],
+    "ppi": 264,
+    "refresh_rate": 60
+  },
+  {
+    "model": "iPad Air 11-inch (M3)",
+    "diagonal_inches": 10.9,
+    "resolution_pixels": [2360, 1640],
+    "resolution_points": [1180, 820],
+    "ppi": 264,
+    "refresh_rate": 60
+  },
+  {
+    "model": "iPad Air 13-inch (M2)",
+    "diagonal_inches": 12.9,
+    "resolution_pixels": [2732, 2048],
+    "resolution_points": [1366, 1024],
+    "ppi": 264,
+    "refresh_rate": 60
+  },
+  {
+    "model": "iPad Air 11-inch (M2)",
+    "diagonal_inches": 10.9,
+    "resolution_pixels": [2360, 1640],
+    "resolution_points": [1180, 820],
+    "ppi": 264,
+    "refresh_rate": 60
+  },
+  {
+    "model": "iPad Air (5th gen.)",
+    "diagonal_inches": 10.9,
+    "resolution_pixels": [2360, 1640],
+    "resolution_points": [1180, 820],
+    "ppi": 264,
+    "refresh_rate": 60
+  },
+  {
+    "model": "iPad Air (4th gen.)",
+    "diagonal_inches": 10.9,
+    "resolution_pixels": [2360, 1640],
+    "resolution_points": [1180, 820],
+    "ppi": 264,
+    "refresh_rate": 60
+  },
+  {
+    "model": "iPad (A16)",
+    "diagonal_inches": 10.9,
+    "resolution_pixels": [2360, 1640],
+    "resolution_points": [1180, 820],
+    "ppi": 264,
+    "refresh_rate": 60
+  },
+  {
+    "model": "iPad (10th gen.)",
+    "diagonal_inches": 10.9,
+    "resolution_pixels": [2360, 1640],
+    "resolution_points": [1180, 820],
+    "ppi": 264,
+    "refresh_rate": 60
+  },
+  {
+    "model": "iPad mini (A17 Pro)",
+    "diagonal_inches": 8.3,
+    "resolution_pixels": [2266, 1488],
+    "resolution_points": [1133, 744],
+    "ppi": 326,
+    "refresh_rate": 60
+  },
+  {
+    "model": "iPad mini (6th gen.)",
+    "diagonal_inches": 8.3,
+    "resolution_pixels": [2266, 1488],
+    "resolution_points": [1133, 744],
+    "ppi": 326,
+    "refresh_rate": 60
+  }
+]
