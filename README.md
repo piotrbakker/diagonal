@@ -21,7 +21,7 @@ For each device, you’ll find:
 
 ## Quick Reference
 
-### iPhone (Latest Models)
+### iPhone
 | Model | Diagonal Size | Resolution (px) | Resolution (pt) | PPI | Refresh Rate |
 |-------|---------------|-----------------|-----------------|-----|--------------|
 | iPhone 16 Pro Max | 6.9" | 1320 × 2868 | 440 × 956 | 460 | 120Hz |
