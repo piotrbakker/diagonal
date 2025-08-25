@@ -1,14 +1,19 @@
 # Screens
 
-Human-curated collection of modern Apple device screen dimensions, including iPhone, iPad, MacBook, iMac, and Apple Watch.
+Collection of select Apple and Google device screen dimensions, including iPhone, iPad, Apple Watch, Pixel Phone, and Pixel Watch.
 
 ## Devices Covered
 
+## Apple
 - **[iPhone](devices/iphone.md)** — All modern iPhone models (iPhone X and newer)
 - **[iPad](devices/ipad.md)** — iPad mini, iPad, iPad Air, and iPad Pro (2018 onwards)
 - **MacBook** — MacBook Air, MacBook Pro (coming soon)
 - **iMac** — iMac, iMac Pro (coming soon)
 - **[Apple Watch](devices/watch.md)** — All Apple Watch series and sizes (Series 4 and newer)
+
+## Google
+- **Pixel Phone** — Pixel 6–10 (coming soon)
+- **Pixel Watch** — Pixel Watch 1–4 (coming soon)
 
 ## What’s Included
 
