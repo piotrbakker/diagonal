@@ -31,7 +31,7 @@ For 11-inch iPad and iPad Air models diagonal screen size is 10.86" but approxim
 
 ### Key Changes
 - **iPad Pro M4 (2024)**: Switch to “Tandem OLED” displays, true 13" size
-- **iPad Air M2 (2024)**: New 13" size option (12.9" 
+- **iPad Air M2 (2024)**: New 13" size option (12.9")
 - **iPad Pro 12.9" (2021)**: Introduction of mini-LED backlighting and XDR
 - **iPad Pro 11" (2018)**: First iPad Pro with Face ID and no home button
 
