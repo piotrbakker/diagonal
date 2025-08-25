@@ -39,8 +39,8 @@ Complete screen specifications for Apple Watch models from Series 4 onwards.
 ### Case Sizes
 - **Ultra 1–2**: 49mm
 - **Series 10**: 42mm and 46mm
-- **Series 7-9**: 41mm and 45mm
-- **Series 4-6**: 40mm and 44mm
+- **Series 7–9**: 41mm and 45mm
+- **Series 4–6**: 40mm and 44mm
 
 ## Sources
 - [Apple Watch Technical Specifications](https://support.apple.com/docs/watch)
