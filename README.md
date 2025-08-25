@@ -34,6 +34,7 @@ For each device, you’ll find:
 | iPhone 16 Pro | 6.3" | 1206 × 2622 | 402 × 874 | 460 | 120Hz |
 | iPhone 16 Plus | 6.7" | 1290 × 2796 | 430 × 932 | 460 | 60Hz |
 | iPhone 16 | 6.1" | 1179 × 2556 | 393 × 852 | 460 | 60Hz |
+| iPhone 16e | 6.1" | 1170 × 2532 | 390 × 844 | 460 | 60Hz |
 
 [View all iPhone specifications →](devices/iphone.md)
 
