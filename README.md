@@ -8,7 +8,7 @@ Human-curated collection of modern Apple device screen dimensions, including iPh
 - **[iPad](devices/ipad.md)** — iPad mini, iPad, iPad Air, and iPad Pro (2018 onwards)
 - **MacBook** — MacBook Air, MacBook Pro (coming soon)
 - **iMac** — iMac, iMac Pro (coming soon)
-- **Apple Watch** — All Apple Watch series and sizes (coming soon)
+- **[Apple Watch](devices/watch.md)** — All Apple Watch series and sizes (Series 4 and newer)
 
 ## What’s Included
 
