@@ -68,8 +68,9 @@ For each device, you’ll find:
 
 ## Source
 
-[Apple Technical Specifications](https://support.apple.com/specs/)
-
+- [Apple Technical Specifications](https://support.apple.com/specs/)
+- [Pixel Phone Hardware Technical Specifications](https://support.google.com/pixelphone/answer/7158570)
+- [Pixel Watch Technical Specifications](https://support.google.com/googlepixelwatch/answer/12651869)
 ---
 
 Last updated: August 25, 2025
