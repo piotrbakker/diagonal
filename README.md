@@ -53,11 +53,11 @@ For each device, you’ll find:
 ### Apple Watch
 | Model | Diagonal Size | Resolution (px) | Resolution (pt) | PPI | Refresh Rate |
 |-------|---------------|-----------------|-----------------|-----|--------------|
-| Ultra 2 | 49 mm | 410 × 502 | 205 × 251 | 338 | 60Hz |
-| Series 10 | 46 mm | 416 × 496 | 208 × 248 | 330 | 60Hz |
-| Series 10 | 42 mm | 374 × 446 | 187 × 223 | 330 | 60Hz |
-| SE (2nd gen.) | 44 mm | 368 × 448 | 184 × 224 | 326 | 60Hz |
-| SE (2nd gen.) | 40 mm | 324 × 394 | 162 × 197 | 326 | 60Hz |
+| Ultra 2 | 49mm | 410 × 502 | 205 × 251 | 338 | 60Hz |
+| Series 10 | 46mm | 416 × 496 | 208 × 248 | 330 | 60Hz |
+| Series 10 | 42mm | 374 × 446 | 187 × 223 | 330 | 60Hz |
+| SE (2nd gen.) | 44mm | 368 × 448 | 184 × 224 | 326 | 60Hz |
+| SE (2nd gen.) | 40mm | 324 × 394 | 162 × 197 | 326 | 60Hz |
 
 [View all Apple Watch specifications →](devices/watch.md)
 
