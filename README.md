@@ -1,6 +1,6 @@
-# Apple Device Screen Properties
+# Apple Device Screen Dimensions
 
-Screen specifications of modern Apple devices, including iPhone, iPad, MacBook, iMac, and Apple Watch.
+Human-curated collection of modern Apple device screen dimensions, including iPhone, iPad, MacBook, iMac, and Apple Watch.
 
 ## Devices Covered
 
