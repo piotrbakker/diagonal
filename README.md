@@ -14,6 +14,7 @@ Human-curated collection of modern Apple device screen dimensions, including iPh
 
 For each device, you’ll find:
 - **Diagonal Size** — Physical screen size in inches
+- **Display Area** — Physical screen size in square millimeters (Apple Watch only)
 - **Resolution in pixels** — Native pixel resolution
 - **Resolution in points** — Resolution at 1x scale
 - **PPI** — Pixels per inch (pixel density)
@@ -48,10 +49,21 @@ For each device, you’ll find:
 
 [View all iPad specifications →](devices/ipad.md)
 
+### Apple Watch
+| Model | Display Area | Resolution (px) | Resolution (pt) | PPI | Refresh Rate |
+|-------|---------------|-----------------|-----------------|-----|--------------|
+| Apple Watch Ultra 2 (49mm) | 1185 sq mm | 410 × 502 | 205 × 251 | 338 | 60Hz |
+| Apple Watch Series 10 (46mm) | 1220 sq mm | 416 × 496 | 208 × 248 | 330 | 60Hz |
+| Apple Watch Series 10 (42mm) | 989 sq mm | 374 × 446 | 187 × 223 | 330 | 60Hz |
+| Apple Watch SE 2nd gen (44mm) | 977 sq mm | 368 × 448 | 184 × 224 | 326 | 60Hz |
+| Apple Watch SE 2nd gen (40mm) | 759 sq mm | 324 × 394 | 162 × 197 | 326 | 60Hz |
+
+[View all Apple Watch specifications →](devices/watch.md)
+
 ## Source
 
 [Apple Technical Specifications](https://support.apple.com/specs/)
 
 ---
 
-Last updated: August 24, 2025
+Last updated: August 25, 2025
