@@ -1,0 +1,182 @@
+[
+  {
+    "model": "Ultra 2",
+    "case_size_mm": 49,
+    "display_area_mm2": 1185,
+    "resolution_pixels": [410, 502],
+    "resolution_points": [205, 251],
+    "ppi": 338,
+    "refresh_rate": 60
+  },
+  {
+    "model": "Ultra",
+    "case_size_mm": 49,
+    "display_area_mm2": 1185,
+    "resolution_pixels": [410, 502],
+    "resolution_points": [205, 251],
+    "ppi": 338,
+    "refresh_rate": 60
+  },
+  {
+    "model": "Series 10",
+    "case_size_mm": 46,
+    "display_area_mm2": 1220,
+    "resolution_pixels": [416, 496],
+    "resolution_points": [208, 248],
+    "ppi": 330,
+    "refresh_rate": 60
+  },
+  {
+    "model": "Series 10",
+    "case_size_mm": 42,
+    "display_area_mm2": 989,
+    "resolution_pixels": [374, 446],
+    "resolution_points": [187, 223],
+    "ppi": 330,
+    "refresh_rate": 60
+  },
+  {
+    "model": "Series 9",
+    "case_size_mm": 45,
+    "display_area_mm2": 1143,
+    "resolution_pixels": [396, 484],
+    "resolution_points": [198, 242],
+    "ppi": 326,
+    "refresh_rate": 60
+  },
+  {
+    "model": "Series 9",
+    "case_size_mm": 41,
+    "display_area_mm2": 904,
+    "resolution_pixels": [352, 430],
+    "resolution_points": [176, 215],
+    "ppi": 326,
+    "refresh_rate": 60
+  },
+  {
+    "model": "Series 8",
+    "case_size_mm": 45,
+    "display_area_mm2": 1143,
+    "resolution_pixels": [396, 484],
+    "resolution_points": [198, 242],
+    "ppi": 326,
+    "refresh_rate": 60
+  },
+  {
+    "model": "Series 8",
+    "case_size_mm": 41,
+    "display_area_mm2": 904,
+    "resolution_pixels": [352, 430],
+    "resolution_points": [176, 215],
+    "ppi": 326,
+    "refresh_rate": 60
+  },
+  {
+    "model": "Series 7",
+    "case_size_mm": 45,
+    "display_area_mm2": 1143,
+    "resolution_pixels": [396, 484],
+    "resolution_points": [198, 242],
+    "ppi": 326,
+    "refresh_rate": 60
+  },
+  {
+    "model": "Series 7",
+    "case_size_mm": 41,
+    "display_area_mm2": 904,
+    "resolution_pixels": [352, 430],
+    "resolution_points": [176, 215],
+    "ppi": 326,
+    "refresh_rate": 60
+  },
+  {
+    "model": "Series 6",
+    "case_size_mm": 44,
+    "display_area_mm2": 977,
+    "resolution_pixels": [368, 448],
+    "resolution_points": [184, 224],
+    "ppi": 326,
+    "refresh_rate": 60
+  },
+  {
+    "model": "Series 6",
+    "case_size_mm": 40,
+    "display_area_mm2": 759,
+    "resolution_pixels": [324, 394],
+    "resolution_points": [162, 197],
+    "ppi": 326,
+    "refresh_rate": 60
+  },
+  {
+    "model": "Series 5",
+    "case_size_mm": 44,
+    "display_area_mm2": 977,
+    "resolution_pixels": [368, 448],
+    "resolution_points": [184, 224],
+    "ppi": 326,
+    "refresh_rate": 60
+  },
+  {
+    "model": "Series 5",
+    "case_size_mm": 40,
+    "display_area_mm2": 759,
+    "resolution_pixels": [324, 394],
+    "resolution_points": [162, 197],
+    "ppi": 326,
+    "refresh_rate": 60
+  },
+  {
+    "model": "Series 4",
+    "case_size_mm": 44,
+    "display_area_mm2": 977,
+    "resolution_pixels": [368, 448],
+    "resolution_points": [184, 224],
+    "ppi": 326,
+    "refresh_rate": 60
+  },
+  {
+    "model": "Series 4",
+    "case_size_mm": 40,
+    "display_area_mm2": 759,
+    "resolution_pixels": [324, 394],
+    "resolution_points": [162, 197],
+    "ppi": 326,
+    "refresh_rate": 60
+  },
+  {
+    "model": "SE (2nd gen.)",
+    "case_size_mm": 44,
+    "display_area_mm2": 977,
+    "resolution_pixels": [368, 448],
+    "resolution_points": [184, 224],
+    "ppi": 326,
+    "refresh_rate": 60
+  },
+  {
+    "model": "SE (2nd gen.)",
+    "case_size_mm": 40,
+    "display_area_mm2": 759,
+    "resolution_pixels": [324, 394],
+    "resolution_points": [162, 197],
+    "ppi": 326,
+    "refresh_rate": 60
+  },
+  {
+    "model": "SE (1st gen.)",
+    "case_size_mm": 44,
+    "display_area_mm2": 977,
+    "resolution_pixels": [368, 448],
+    "resolution_points": [184, 224],
+    "ppi": 326,
+    "refresh_rate": 60
+  },
+  {
+    "model": "SE (1st gen.)",
+    "case_size_mm": 40,
+    "display_area_mm2": 759,
+    "resolution_pixels": [324, 394],
+    "resolution_points": [162, 197],
+    "ppi": 326,
+    "refresh_rate": 60
+  }
+]
