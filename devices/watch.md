@@ -4,28 +4,28 @@ Complete screen specifications for Apple Watch models from Series 4 onwards.
 
 ## Specifications
 
-| Model | Display Area | Resolution (px) | Resolution (pt) | PPI | Refresh Rate |
-|-------|---------------|-----------------|-----------------|-----|--------------|
-| Apple Watch Ultra 2 (49mm) | 1185 sq mm | 410 × 502 | 205 × 251 | 338 | 60Hz |
-| Apple Watch Ultra (49mm) | 1185 sq mm | 410 × 502 | 205 × 251 | 338 | 60Hz |
-| Apple Watch Series 10 (46mm) | 1220 sq mm | 416 × 496 | 208 × 248 | 330 | 60Hz |
-| Apple Watch Series 10 (42mm) | 989 sq mm | 374 × 446 | 187 × 223 | 330 | 60Hz |
-| Apple Watch Series 9 (45mm) | 1143 sq mm | 396 × 484 | 198 × 242 | 326 | 60Hz |
-| Apple Watch Series 9 (41mm) | 904 sq mm | 352 × 430 | 176 × 215 | 326 | 60Hz |
-| Apple Watch Series 8 (45mm) | 1143 sq mm | 396 × 484 | 198 × 242 | 326 | 60Hz |
-| Apple Watch Series 8 (41mm) | 904 sq mm | 352 × 430 | 176 × 215 | 326 | 60Hz |
-| Apple Watch Series 7 (45mm) | 1143 sq mm | 396 × 484 | 198 × 242 | 326 | 60Hz |
-| Apple Watch Series 7 (41mm) | 904 sq mm | 352 × 430 | 176 × 215 | 326 | 60Hz |
-| Apple Watch Series 6 (44mm) | 977 sq mm | 368 × 448 | 184 × 224 | 326 | 60Hz |
-| Apple Watch Series 6 (40mm) | 759 sq mm | 324 × 394 | 162 × 197 | 326 | 60Hz |
-| Apple Watch Series 5 (44mm) | 977 sq mm | 368 × 448 | 184 × 224 | 326 | 60Hz |
-| Apple Watch Series 5 (40mm) | 759 sq mm | 324 × 394 | 162 × 197 | 326 | 60Hz |
-| Apple Watch Series 4 (44mm) | 977 sq mm | 368 × 448 | 184 × 224 | 326 | 60Hz |
-| Apple Watch Series 4 (40mm) | 759 sq mm | 324 × 394 | 162 × 197 | 326 | 60Hz |
-| Apple Watch SE 2nd gen (44mm) | 977 sq mm | 368 × 448 | 184 × 224 | 326 | 60Hz |
-| Apple Watch SE 2nd gen (40mm) | 759 sq mm | 324 × 394 | 162 × 197 | 326 | 60Hz |
-| Apple Watch SE 1st gen (44mm) | 977 sq mm | 368 × 448 | 184 × 224 | 326 | 60Hz |
-| Apple Watch SE 1st gen (40mm) | 759 sq mm | 324 × 394 | 162 × 197 | 326 | 60Hz |
+| Model | Diagonal Size (mm) | Display Area (mm²) | Resolution (px) | Resolution (pt) | PPI | Refresh Rate (Hz) |
+|-------|---------------|--------------|-----------------|-----------------|-----|--------------|
+| Ultra 2 | 49 | 1185 | 410 × 502 | 205 × 251 | 338 | 60 |
+| Ultra | 49 | 1185 | 410 × 502 | 205 × 251 | 338 | 60 |
+| Series 10 | 46 | 1220 | 416 × 496 | 208 × 248 | 330 | 60 |
+| Series 10 | 42 | 989 | 374 × 446 | 187 × 223 | 330 | 60 |
+| Series 9 | 45 | 1143 | 396 × 484 | 198 × 242 | 326 | 60 |
+| Series 9 | 41 | 904 | 352 × 430 | 176 × 215 | 326 | 60 |
+| Series 8 | 45 | 1143 | 396 × 484 | 198 × 242 | 326 | 60 |
+| Series 8 | 41 | 904 | 352 × 430 | 176 × 215 | 326 | 60 |
+| Series 7 | 45 | 1143 | 396 × 484 | 198 × 242 | 326 | 60 |
+| Series 7 | 41 | 904 | 352 × 430 | 176 × 215 | 326 | 60 |
+| Series 6 | 44 | 977 | 368 × 448 | 184 × 224 | 326 | 60 |
+| Series 6 | 40 | 759 | 324 × 394 | 162 × 197 | 326 | 60 |
+| Series 5 | 44 | 977 | 368 × 448 | 184 × 224 | 326 | 60 |
+| Series 5 | 40 | 759 | 324 × 394 | 162 × 197 | 326 | 60 |
+| Series 4 | 44 | 977 | 368 × 448 | 184 × 224 | 326 | 60 |
+| Series 4 | 40 | 759 | 324 × 394 | 162 × 197 | 326 | 60 |
+| SE (2nd gen.) | 44 | 977 | 368 × 448 | 184 × 224 | 326 | 60 |
+| SE (2nd gen.) | 40 | 759 | 324 × 394 | 162 × 197 | 326 | 60 |
+| SE (1st gen.) | 44 | 977 | 368 × 448 | 184 × 224 | 326 | 60 |
+| SE (1st gen.) | 40 | 759 | 324 × 394 | 162 × 197 | 326 | 60 |
 
 ## Notes
 
