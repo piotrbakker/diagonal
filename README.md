@@ -1,4 +1,4 @@
-# Screens
+# Diagonal
 
 Collection of select Apple and Google device screen dimensions, including iPhone, iPad, Apple Watch, Pixel Phone, and Pixel Watch.
 
