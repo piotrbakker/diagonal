@@ -1,4 +1,4 @@
-# Apple Device Screen Dimensions
+# Screens
 
 Human-curated collection of modern Apple device screen dimensions, including iPhone, iPad, MacBook, iMac, and Apple Watch.
 
