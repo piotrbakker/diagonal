@@ -9,16 +9,17 @@ Collection of select Apple and Google device screen dimensions, including iPhone
 - **[iPad](devices/ipad.md)** — iPad mini, iPad, iPad Air, and iPad Pro (2018 onwards)
 - **MacBook** — MacBook Air, MacBook Pro (coming soon)
 - **iMac** — iMac, iMac Pro (coming soon)
-- **[Apple Watch](devices/watch.md)** — All Apple Watch series and sizes (Series 4 and newer)
+- **[Apple Watch](devices/apple-watch.md)** — All Apple Watch series and sizes (Series 4 and newer)
 
 ## Google
 - **Pixel Phone** — Pixel 6–10 (coming soon)
-- **Pixel Watch** — Pixel Watch 1–4 (coming soon)
+- **[Pixel Watch](devices/pixel-watch.md)** — Pixel Watch 1–4 (coming soon)
 
 ## What’s Included
 
 For each device, you’ll find:
 - **Diagonal Size** — Physical screen size in inches
+- **Diameter** — Physical screen size in millimeters (Pixel Watch only)
 - **Display Area** — Physical screen size in square millimeters (Apple Watch only)
 - **Resolution in pixels** — Native pixel resolution
 - **Resolution in points** — Resolution at 1x scale
@@ -64,7 +65,7 @@ For each device, you’ll find:
 | SE (2nd gen.) | 44mm | 368 × 448 | 184 × 224 | 326 | 60Hz |
 | SE (2nd gen.) | 40mm | 324 × 394 | 162 × 197 | 326 | 60Hz |
 
-[View all Apple Watch specifications →](devices/watch.md)
+[View all Apple Watch specifications →](devices/apple-watch.md)
 
 ## Source
 
