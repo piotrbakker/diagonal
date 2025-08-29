@@ -1,0 +1,38 @@
+[
+  {
+    "model": "Pixel Watch 4",
+    "case_size_mm": 45,
+    "ppi": 320,
+    "refresh_rate": "1–60"
+  },
+  {
+    "model": "Pixel Watch 4",
+    "case_size_mm": 41,
+    "ppi": 320,
+    "refresh_rate": "1–60"
+  },
+  {
+    "model": "Pixel Watch 3",
+    "case_size_mm": 45,
+    "ppi": 320,
+    "refresh_rate": "1–60"
+  },
+  {
+    "model": "Pixel Watch 3",
+    "case_size_mm": 41,
+    "ppi": 320,
+    "refresh_rate": "1–60"
+  },
+  {
+    "model": "Pixel Watch 2",
+    "case_size_mm": 41,
+    "ppi": 320,
+    "refresh_rate": 30
+  },
+  {
+    "model": "Pixel Watch",
+    "case_size_mm": 41,
+    "ppi": 320,
+    "refresh_rate": 30
+  }
+]
