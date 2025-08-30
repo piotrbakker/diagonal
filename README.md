@@ -13,7 +13,7 @@ Collection of select Apple and Google device screen dimensions, including iPhone
 
 ## Google
 - **Pixel Phone** — Pixel 6–10 (coming soon)
-- **[Pixel Watch](devices/pixel-watch.md)** — Pixel Watch 1–4 (coming soon)
+- **[Pixel Watch](devices/pixel-watch.md)** — Pixel Watch 1–4
 
 ## What’s Included
 
