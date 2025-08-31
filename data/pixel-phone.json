@@ -1,0 +1,114 @@
+[
+  {
+    "model": "Pixel 10 Pro XL",
+    "diagonal_inches": 6.8,
+    "resolution_pixels": [1344, 2992],
+    "ppi": 486,
+    "max_refresh_rate": 120
+  },
+  {
+    "model": "Pixel 10 Pro",
+    "diagonal_inches": 6.3,
+    "resolution_pixels": [1280, 2856],
+    "ppi": 495,
+    "max_refresh_rate": 120
+  },
+  {
+    "model": "Pixel 10",
+    "diagonal_inches": 6.3,
+    "resolution_pixels": [1080, 2424],
+    "ppi": 422,
+    "max_refresh_rate": 120
+  },
+  {
+    "model": "Pixel 9a",
+    "diagonal_inches": 6.3,
+    "resolution_pixels": [1080, 2424],
+    "ppi": 422,
+    "max_refresh_rate": 120
+  },
+  {
+    "model": "Pixel 9 Pro XL",
+    "diagonal_inches": 6.8,
+    "resolution_pixels": [1344, 2992],
+    "ppi": 486,
+    "max_refresh_rate": 120
+  },
+  {
+    "model": "Pixel 9 Pro",
+    "diagonal_inches": 6.3,
+    "resolution_pixels": [1280, 2856],
+    "ppi": 495,
+    "max_refresh_rate": 120
+  },
+  {
+    "model": "Pixel 9",
+    "diagonal_inches": 6.3,
+    "resolution_pixels": [1080, 2424],
+    "ppi": 422,
+    "max_refresh_rate": 120
+  },
+  {
+    "model": "Pixel 8a",
+    "diagonal_inches": 6.1,
+    "resolution_pixels": [1080, 2400],
+    "ppi": 430,
+    "max_refresh_rate": 120
+  },
+  {
+    "model": "Pixel 8 Pro",
+    "diagonal_inches": 6.7,
+    "resolution_pixels": [1344, 2992],
+    "ppi": 489,
+    "max_refresh_rate": 120
+  },
+  {
+    "model": "Pixel 8",
+    "diagonal_inches": 6.2,
+    "resolution_pixels": [1080, 2400],
+    "ppi": 428,
+    "max_refresh_rate": 120
+  },
+  {
+    "model": "Pixel 7a",
+    "diagonal_inches": 6.1,
+    "resolution_pixels": [1080, 2400],
+    "ppi": 429,
+    "max_refresh_rate": 90
+  },
+  {
+    "model": "Pixel 7 Pro",
+    "diagonal_inches": 6.7,
+    "resolution_pixels": [1440, 3120],
+    "ppi": 512,
+    "max_refresh_rate": 120
+  },
+  {
+    "model": "Pixel 7",
+    "diagonal_inches": 6.3,
+    "resolution_pixels": [1080, 2400],
+    "ppi": 416,
+    "max_refresh_rate": 90
+  },
+  {
+    "model": "Pixel 6a",
+    "diagonal_inches": 6.1,
+    "resolution_pixels": [1080, 2400],
+    "ppi": 429,
+    "max_refresh_rate": 60
+  },
+  {
+    "model": "Pixel 6 Pro",
+    "diagonal_inches": 6.7,
+    "resolution_pixels": [1440, 3120],
+    "ppi": 512,
+    "max_refresh_rate": 120
+  },
+  {
+    "model": "Pixel 6",
+    "diagonal_inches": 6.4,
+    "resolution_pixels": [1080, 2400],
+    "ppi": 411,
+    "max_refresh_rate": 90
+  }
+]
