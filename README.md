@@ -16,8 +16,6 @@ Collection of select Apple and Google device screen dimensions, including iPhone
 - **[Pixel Watch](devices/pixel-watch.md)** — Pixel Watch 1–4
 
 ## What’s Included
-
-For each device, you’ll find:
 - **Diagonal Size** — Physical screen size in inches
 - **Diameter** — Physical screen size in millimeters (Pixel Watch only)
 - **Display Area** — Physical screen size in square millimeters (Apple Watch only)
@@ -28,8 +26,8 @@ For each device, you’ll find:
 
 ## Formats
 
-- **Markdown** — Human-readable format in [devices folder](devices)
-- **JSON** — Machine-readable format in [data folder](data)
+- **[Markdown](devices)**
+- **[JSON](data)**
 
 ## Quick Reference
 
