@@ -12,7 +12,7 @@ Collection of select Apple and Google device screen dimensions, including iPhone
 - **[Apple Watch](devices/apple-watch.md)** — All Apple Watch series and sizes (Series 4 and newer)
 
 ## Google
-- **Pixel Phone** — Pixel 6–10 (coming soon)
+- **[Pixel](devices/pixel-phone.md)** — Pixel 6–10
 - **[Pixel Watch](devices/pixel-watch.md)** — Pixel Watch 1–4
 
 ## What’s Included
@@ -67,6 +67,15 @@ For each device, you’ll find:
 
 [View all Apple Watch specifications →](devices/apple-watch.md)
 
+### Pixel
+| Model | Diagonal Size (in) | Resolution (px) | PPI | Max. Refresh Rate (Hz) |
+|-------|--------------------|-----------------|-----|------------------------|
+| Pixel 10 Pro XL | 6.8 | 1344 × 2992 | 486 | 120 |
+| Pixel 10 Pro | 6.3 | 1280 × 2856 | 495 | 120 |
+| Pixel 10 | 6.3 | 1080 × 2424 | 422 | 120 |
+
+[View all Pixel phone specifications →](devices/pixel-phone.md)
+
 ## Source
 
 - [Apple Technical Specifications](https://support.apple.com/specs/)
@@ -74,4 +83,4 @@ For each device, you’ll find:
 - [Pixel Watch Technical Specifications](https://support.google.com/googlepixelwatch/answer/12651869)
 ---
 
-Last updated: August 25, 2025
+Last updated: August 31, 2025
