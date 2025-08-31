@@ -83,8 +83,7 @@ Collection of select Apple and Google device screen dimensions, including iPhone
 
 [View all Pixel Fold specifications →](devices/pixel-phone.md#pixel-fold)
 
-## Source
-
+## Sources
 - [Apple Technical Specifications](https://support.apple.com/specs/)
 - [Pixel Phone Hardware Technical Specifications](https://support.google.com/pixelphone/answer/7158570)
 - [Pixel Watch Technical Specifications](https://support.google.com/googlepixelwatch/answer/12651869)
