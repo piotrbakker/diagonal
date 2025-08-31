@@ -16,7 +16,7 @@ Complete screen specifications for all Google Pixel Watch models.
 ## Notes
 
 ### Display Resolution
-Google does not publish pixel resolution specifications for Pixel Watch models. Instead, Wear OS design documentation defines screen size breakpoints and development templates, as listed below. Additionally, Android Studio offers two Wear OS virtual device hardware profiles used for development purposes.
+Google does not publish pixel resolution specifications for Pixel Watch models. Instead, Wear OS design documentation defines screen size breakpoints as listed below. Additionally, Android Studio offers two Wear OS virtual device hardware profiles used for development purposes.
 
 **Wear OS screen size breakpoints:**
 - Extra-Small: 192dp
