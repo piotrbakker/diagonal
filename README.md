@@ -1,6 +1,6 @@
 # Diagonal
 
-Collection of select Apple and Google device screen dimensions, including iPhone, iPad, Apple Watch, Pixel Phone, and Pixel Watch.
+Collection of select Apple and Google device screen dimensions, including iPhone, iPad, Apple Watch, Pixel, Pixel Fold, and Pixel Watch.
 
 ## Devices Covered
 
@@ -74,7 +74,15 @@ For each device, you’ll find:
 | Pixel 10 Pro | 6.3 | 1280 × 2856 | 495 | 120 |
 | Pixel 10 | 6.3 | 1080 × 2424 | 422 | 120 |
 
-[View all Pixel phone specifications →](devices/pixel-phone.md)
+[View all Pixel phone specifications →](devices/pixel-phone.md#pixel-phone)
+
+### Pixel Fold
+| Model | Display | Diagonal Size (in) | Resolution (px) | PPI | Max. Refresh Rate (Hz) |
+|-------|---------|--------------------|-----------------|-----|------------------------|
+| Pixel 10 Pro Fold | External | 6.4 | 1080 × 2364 | 408 | 120 |
+| Pixel 10 Pro Fold | Internal | 8.0 | 2076 × 2152 | 373 | 120 |
+
+[View all Pixel Fold specifications →](devices/pixel-phone.md#pixel-fold)
 
 ## Source
 
