@@ -12,7 +12,8 @@ Collection of select Apple and Google device screen dimensions, including iPhone
 - **[Apple Watch](devices/apple-watch.md)** — All Apple Watch series and sizes (Series 4 and newer)
 
 ## Google
-- **[Pixel](devices/pixel-phone.md)** — Pixel 6–10
+- **[Pixel](devices/pixel-phone.md#pixel-phone)** — Pixel 6–10
+- **[Pixel Fold](devices/pixel-phone.md#pixel-fold)** — All foldable models
 - **[Pixel Watch](devices/pixel-watch.md)** — Pixel Watch 1–4
 
 ## What’s Included
