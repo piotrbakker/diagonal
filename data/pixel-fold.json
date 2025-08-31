@@ -1,0 +1,50 @@
+[
+  {
+    "model": "Pixel 10 Pro Fold",
+    "display": "External",
+    "diagonal_inches": 6.4,
+    "resolution_pixels": [1080, 2364],
+    "ppi": 408,
+    "max_refresh_rate": 120
+  },
+  {
+    "model": "Pixel 10 Pro Fold",
+    "display": "Internal",
+    "diagonal_inches": 8.0,
+    "resolution_pixels": [2076, 2152],
+    "ppi": 373,
+    "max_refresh_rate": 120
+  },
+  {
+    "model": "Pixel 9 Pro Fold",
+    "display": "External",
+    "diagonal_inches": 6.3,
+    "resolution_pixels": [1080, 2424],
+    "ppi": 422,
+    "max_refresh_rate": 120
+  },
+  {
+    "model": "Pixel 9 Pro Fold",
+    "display": "Internal",
+    "diagonal_inches": 8.0,
+    "resolution_pixels": [2076, 2152],
+    "ppi": 373,
+    "max_refresh_rate": 120
+  },
+  {
+    "model": "Pixel Fold",
+    "display": "External",
+    "diagonal_inches": 5.8,
+    "resolution_pixels": [1080, 2092],
+    "ppi": 408,
+    "max_refresh_rate": 120
+  },
+  {
+    "model": "Pixel Fold",
+    "display": "Internal",
+    "diagonal_inches": 7.6,
+    "resolution_pixels": [1840, 2208],
+    "ppi": 380,
+    "max_refresh_rate": 120
+  }
+]
