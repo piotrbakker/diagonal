@@ -7,7 +7,7 @@ Collection of select Apple and Google device screen dimensions, including iPhone
 ## Apple
 - **[iPhone](devices/iphone.md)** — All modern iPhone models (iPhone X and newer)
 - **[iPad](devices/ipad.md)** — iPad mini, iPad, iPad Air, and iPad Pro (2018 onwards)
-- **MacBook** — MacBook Air, MacBook Pro (coming soon)
+- **[MacBook](devices/macbook.md)** — MacBook Air and Pro models with Apple silicon 
 - **[Apple Watch](devices/apple-watch.md)** — All Apple Watch series and sizes (Series 4 and newer)
 
 ## Google
@@ -42,6 +42,17 @@ Collection of select Apple and Google device screen dimensions, including iPhone
 
 [View all iPhone specifications →](devices/iphone.md)
 
+### Apple Watch
+| Model | Size (mm) | Resolution (px) | Resolution (pt) | PPI | Max. Refresh Rate (Hz)|
+|-------|-----------|-----------------|-----------------|-----|-----------------------|
+| Ultra 2 | 49 | 410 × 502 | 205 × 251 | 338 | 60 |
+| Series 10 | 46 | 416 × 496 | 208 × 248 | 330 | 60 |
+| Series 10 | 42 | 374 × 446 | 187 × 223 | 330 | 60 |
+| SE (2nd gen.) | 44 | 368 × 448 | 184 × 224 | 326 | 60 |
+| SE (2nd gen.) | 40 | 324 × 394 | 162 × 197 | 326 | 60 |
+
+[View all Apple Watch specifications →](devices/apple-watch.md)
+
 ### iPad
 | Model | Size (in) | Resolution (px) | Resolution (pt) | PPI | Max. Refresh Rate (Hz) |
 |-------|-----------|-----------------|-----------------|-----|------------------------|
@@ -54,16 +65,16 @@ Collection of select Apple and Google device screen dimensions, including iPhone
 
 [View all iPad specifications →](devices/ipad.md)
 
-### Apple Watch
-| Model | Size (mm) | Resolution (px) | Resolution (pt) | PPI | Max. Refresh Rate (Hz)|
-|-------|-----------|-----------------|-----------------|-----|-----------------------|
-| Ultra 2 | 49 | 410 × 502 | 205 × 251 | 338 | 60 |
-| Series 10 | 46 | 416 × 496 | 208 × 248 | 330 | 60 |
-| Series 10 | 42 | 374 × 446 | 187 × 223 | 330 | 60 |
-| SE (2nd gen.) | 44 | 368 × 448 | 184 × 224 | 326 | 60 |
-| SE (2nd gen.) | 40 | 324 × 394 | 162 × 197 | 326 | 60 |
 
-[View all Apple Watch specifications →](devices/apple-watch.md)
+### MacBook
+| Model | Size (in) | Resolution (px) | Resolution (pt) | PPI | Max. Refresh Rate (Hz) |
+|-------|-----------|-----------------|-----------------|-----|------------------------|
+| MacBook Pro 16-inch (M4) | 16.2 | 3456 × 2234 | 1728 × 1117 | 254 | 120 |
+| MacBook Pro 14-inch (M4) | 14.2 | 3024 × 1964 | 1512 × 982 | 254 | 120 |
+| MacBook Air 15-inch (M4) | 15.3 | 2880 × 1864 | 1440 × 932 |224 | 60 |
+| MacBook Air 13-inch (M4) | 13.6 | 2560 × 1664 | 1512 × 832 |224 | 60 |
+
+[View all MacBook specifications →](devices/macbook.md)
 
 ### Pixel
 | Model | Size (in) | Resolution (px) | PPI | Max. Refresh Rate (Hz) |
