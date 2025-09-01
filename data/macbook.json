@@ -1,0 +1,138 @@
+[
+  {
+    "model": "MacBook Pro 16-inch (M4)",
+    "diagonal_inches": 16.2,
+    "resolution_pixels": [3456, 2234],
+    "resolution_points": [1728, 1117],
+    "ppi": 254,
+    "max_refresh_rate": 120
+  },
+  {
+    "model": "MacBook Pro 14-inch (M4)",
+    "diagonal_inches": 14.2,
+    "resolution_pixels": [3024, 1964],
+    "resolution_points": [1512, 982],
+    "ppi": 254,
+    "max_refresh_rate": 120
+  },
+  {
+    "model": "MacBook Pro 16-inch (M3)",
+    "diagonal_inches": 16.2,
+    "resolution_pixels": [3456, 2234],
+    "resolution_points": [1728, 1117],
+    "ppi": 254,
+    "max_refresh_rate": 120
+  },
+  {
+    "model": "MacBook Pro 14-inch (M3)",
+    "diagonal_inches": 14.2,
+    "resolution_pixels": [3024, 1964],
+    "resolution_points": [1512, 982],
+    "ppi": 254,
+    "max_refresh_rate": 120
+  },
+  {
+    "model": "MacBook Pro 16-inch (M2)",
+    "diagonal_inches": 16.2,
+    "resolution_pixels": [3456, 2234],
+    "resolution_points": [1728, 1117],
+    "ppi": 254,
+    "max_refresh_rate": 120
+  },
+  {
+    "model": "MacBook Pro 14-inch (M2)",
+    "diagonal_inches": 14.2,
+    "resolution_pixels": [3024, 1964],
+    "resolution_points": [1512, 982],
+    "ppi": 254,
+    "max_refresh_rate": 120
+  },
+  {
+    "model": "MacBook Pro 16-inch (M1)",
+    "diagonal_inches": 16.2,
+    "resolution_pixels": [3456, 2234],
+    "resolution_points": [1728, 1117],
+    "ppi": 254,
+    "max_refresh_rate": 120
+  },
+  {
+    "model": "MacBook Pro 14-inch (M1)",
+    "diagonal_inches": 14.2,
+    "resolution_pixels": [3024, 1964],
+    "resolution_points": [1512, 982],
+    "ppi": 254,
+    "max_refresh_rate": 120
+  },
+  {
+    "model": "MacBook Pro 13-inch (M2)",
+    "diagonal_inches": 13.3,
+    "resolution_pixels": [2560, 1600],
+    "resolution_points": [1280, 800],
+    "ppi": 227,
+    "max_refresh_rate": 60
+  },
+  {
+    "model": "MacBook Pro 13-inch (M1)",
+    "diagonal_inches": 13.3,
+    "resolution_pixels": [2560, 1600],
+    "resolution_points": [1280, 800],
+    "ppi": 227,
+    "max_refresh_rate": 60
+  },
+  {
+    "model": "MacBook Air 15-inch (M4)",
+    "diagonal_inches": 15.3,
+    "resolution_pixels": [2880, 1864],
+    "resolution_points": [1440, 932],
+    "ppi": 224,
+    "max_refresh_rate": 60
+  },
+  {
+    "model": "MacBook Air 13-inch (M4)",
+    "diagonal_inches": 13.6,
+    "resolution_pixels": [2560, 1664],
+    "resolution_points": [1280, 832],
+    "ppi": 224,
+    "max_refresh_rate": 60
+  },
+  {
+    "model": "MacBook Air 15-inch (M3)",
+    "diagonal_inches": 15.3,
+    "resolution_pixels": [2880, 1864],
+    "resolution_points": [1440, 932],
+    "ppi": 224,
+    "max_refresh_rate": 60
+  },
+  {
+    "model": "MacBook Air 13-inch (M3)",
+    "diagonal_inches": 13.6,
+    "resolution_pixels": [2560, 1664],
+    "resolution_points": [1280, 832],
+    "ppi": 224,
+    "max_refresh_rate": 60
+  },
+  {
+    "model": "MacBook Air 15-inch (M2)",
+    "diagonal_inches": 15.3,
+    "resolution_pixels": [2880, 1864],
+    "resolution_points": [1440, 932],
+    "ppi": 224,
+    "max_refresh_rate": 60
+  },
+  {
+    "model": "MacBook Air 13-inch (M2)",
+    "diagonal_inches": 13.6,
+    "resolution_pixels": [2560, 1664],
+    "resolution_points": [1280, 832],
+    "ppi": 224,
+    "max_refresh_rate": 60
+  },
+  {
+    "model": "MacBook Air 13-inch (M1)",
+    "diagonal_inches": 13.3,
+    "resolution_pixels": [2560, 1600],
+    "resolution_points": [1280, 800],
+    "ppi": 227,
+    "max_refresh_rate": 60
+  }
+]
