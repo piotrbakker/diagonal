@@ -71,8 +71,8 @@ Collection of select Apple and Google device screen dimensions, including iPhone
 |-------|-----------|-----------------|-----------------|-----|------------------------|
 | MacBook Pro 16-inch (M4) | 16.2 | 3456 × 2234 | 1728 × 1117 | 254 | 120 |
 | MacBook Pro 14-inch (M4) | 14.2 | 3024 × 1964 | 1512 × 982 | 254 | 120 |
-| MacBook Air 15-inch (M4) | 15.3 | 2880 × 1864 | 1440 × 932 |224 | 60 |
-| MacBook Air 13-inch (M4) | 13.6 | 2560 × 1664 | 1512 × 832 |224 | 60 |
+| MacBook Air 15-inch (M4) | 15.3 | 2880 × 1864 | 1440 × 932 | 224 | 60 |
+| MacBook Air 13-inch (M4) | 13.6 | 2560 × 1664 | 1280 × 832 | 224 | 60 |
 
 [View all MacBook specifications →](devices/macbook.md)
 
