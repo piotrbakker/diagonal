@@ -4,8 +4,8 @@ Complete screen specifications for Apple Watch models from Series 4 onwards.
 
 ## Specifications
 
-| Model | Diagonal Size (mm) | Display Area (mm²) | Resolution (px) | Resolution (pt) | PPI | Refresh Rate (Hz) |
-|-------|--------------------|--------------------|-----------------|-----------------|-----|-------------------|
+| Model | Diagonal Size (mm) | Display Area (mm²) | Resolution (px) | Resolution (pt) | PPI | Max. Refresh Rate (Hz) |
+|-------|--------------------|--------------------|-----------------|-----------------|-----|------------------------|
 | Ultra 2 | 49 | 1185 | 410 × 502 | 205 × 251 | 338 | 60 |
 | Ultra | 49 | 1185 | 410 × 502 | 205 × 251 | 338 | 60 |
 | Series 10 | 46 | 1220 | 416 × 496 | 208 × 248 | 330 | 60 |

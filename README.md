@@ -23,7 +23,7 @@ Collection of select Apple and Google device screen dimensions, including iPhone
 - **Resolution in pixels** — Native pixel resolution
 - **Resolution in points** — Resolution at 1x scale
 - **PPI** — Pixels per inch (pixel density)
-- **Refresh rate** — Refresh rates in Hz
+- **Max. Refresh Rate** — Maximum refresh rates in Hz
 
 ## Formats
 
@@ -33,36 +33,36 @@ Collection of select Apple and Google device screen dimensions, including iPhone
 ## Quick Reference
 
 ### iPhone
-| Model | Diagonal Size | Resolution (px) | Resolution (pt) | PPI | Refresh Rate |
-|-------|---------------|-----------------|-----------------|-----|--------------|
-| iPhone 16 Pro Max | 6.9" | 1320 × 2868 | 440 × 956 | 460 | 120Hz |
-| iPhone 16 Pro | 6.3" | 1206 × 2622 | 402 × 874 | 460 | 120Hz |
-| iPhone 16 Plus | 6.7" | 1290 × 2796 | 430 × 932 | 460 | 60Hz |
-| iPhone 16 | 6.1" | 1179 × 2556 | 393 × 852 | 460 | 60Hz |
-| iPhone 16e | 6.1" | 1170 × 2532 | 390 × 844 | 460 | 60Hz |
+| Model | Diagonal Size | Resolution (px) | Resolution (pt) | PPI | Max. Refresh Rate (Hz)|
+|-------|---------------|-----------------|-----------------|-----|-----------------------|
+| iPhone 16 Pro Max | 6.9" | 1320 × 2868 | 440 × 956 | 460 | 120 |
+| iPhone 16 Pro | 6.3" | 1206 × 2622 | 402 × 874 | 460 | 120 |
+| iPhone 16 Plus | 6.7" | 1290 × 2796 | 430 × 932 | 460 | 60 |
+| iPhone 16 | 6.1" | 1179 × 2556 | 393 × 852 | 460 | 60 |
+| iPhone 16e | 6.1" | 1170 × 2532 | 390 × 844 | 460 | 60 |
 
 [View all iPhone specifications →](devices/iphone.md)
 
 ### iPad
-| Model | Diagonal Size | Resolution (px) | Resolution (pt) | PPI | Refresh Rate |
-|-------|---------------|-----------------|-----------------|-----|--------------|
-| iPad Pro 13-inch (M4) | 13.0" | 2752 × 2064 | 1376 × 1032 | 264 | 120Hz |
-| iPad Pro 11-inch (M4) | 11.1" | 2420 × 1668 | 1210 × 834 | 264 | 120Hz |
-| iPad Air 13-inch (M3) | 12.9" | 2732 × 2048 | 1366 × 1024 | 264 | 60Hz |
-| iPad Air 11-inch (M3) | 10.9" | 2360 × 1640 | 1180 × 820 | 264 | 60Hz |
-| iPad (A16) | 10.9" | 2360 × 1640 | 1180 × 820 | 264 | 60Hz |
-| iPad mini (6th gen.) | 8.3" | 2266 × 1488 | 1133 × 744 | 326 | 60Hz |
+| Model | Diagonal Size | Resolution (px) | Resolution (pt) | PPI | Max. Refresh Rate (Hz) |
+|-------|---------------|-----------------|-----------------|-----|------------------------|
+| iPad Pro 13-inch (M4) | 13.0" | 2752 × 2064 | 1376 × 1032 | 264 | 120 |
+| iPad Pro 11-inch (M4) | 11.1" | 2420 × 1668 | 1210 × 834 | 264 | 120 |
+| iPad Air 13-inch (M3) | 12.9" | 2732 × 2048 | 1366 × 1024 | 264 | 60 |
+| iPad Air 11-inch (M3) | 10.9" | 2360 × 1640 | 1180 × 820 | 264 | 60 |
+| iPad (A16) | 10.9" | 2360 × 1640 | 1180 × 820 | 264 | 60 |
+| iPad mini (6th gen.) | 8.3" | 2266 × 1488 | 1133 × 744 | 326 | 60 |
 
 [View all iPad specifications →](devices/ipad.md)
 
 ### Apple Watch
-| Model | Diagonal Size | Resolution (px) | Resolution (pt) | PPI | Refresh Rate |
-|-------|---------------|-----------------|-----------------|-----|--------------|
-| Ultra 2 | 49mm | 410 × 502 | 205 × 251 | 338 | 60Hz |
-| Series 10 | 46mm | 416 × 496 | 208 × 248 | 330 | 60Hz |
-| Series 10 | 42mm | 374 × 446 | 187 × 223 | 330 | 60Hz |
-| SE (2nd gen.) | 44mm | 368 × 448 | 184 × 224 | 326 | 60Hz |
-| SE (2nd gen.) | 40mm | 324 × 394 | 162 × 197 | 326 | 60Hz |
+| Model | Diagonal Size | Resolution (px) | Resolution (pt) | PPI | Max. Refresh Rate (Hz)|
+|-------|---------------|-----------------|-----------------|-----|-----------------------|
+| Ultra 2 | 49mm | 410 × 502 | 205 × 251 | 338 | 60 |
+| Series 10 | 46mm | 416 × 496 | 208 × 248 | 330 | 60 |
+| Series 10 | 42mm | 374 × 446 | 187 × 223 | 330 | 60 |
+| SE (2nd gen.) | 44mm | 368 × 448 | 184 × 224 | 326 | 60 |
+| SE (2nd gen.) | 40mm | 324 × 394 | 162 × 197 | 326 | 60 |
 
 [View all Apple Watch specifications →](devices/apple-watch.md)
 

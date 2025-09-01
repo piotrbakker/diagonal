@@ -4,8 +4,8 @@ Complete screen specifications for modern iPad models.
 
 ## Specifications
 
-| Model | Diagonal Size (in) | Resolution (px) | Resolution (pt) | PPI | Refresh Rate (Hz) |
-|-------|--------------------|-----------------|-----------------|-----|-------------------|
+| Model | Diagonal Size (in) | Resolution (px) | Resolution (pt) | PPI | Max. Refresh Rate (Hz) |
+|-------|--------------------|-----------------|-----------------|-----|------------------------|
 | iPad Pro 13-inch (M4) | 13.0 | 2752 × 2064 | 1376 × 1032 | 264 | 120 |
 | iPad Pro 12.9-inch (5th gen.) | 12.9 | 2732 × 2048 | 1366 × 1024 | 264 | 120 |
 | iPad Pro 12.9-inch (4th gen.) | 12.9 | 2732 × 2048 | 1366 × 1024 | 264 | 120 |
@@ -27,7 +27,7 @@ Complete screen specifications for modern iPad models.
 ## Notes
 
 ### Diagonal Screen Measurements
-For 11-inch iPad and iPad Air models diagonal screen size is 10.86" but approximated to 10.9" in marketing materials. The diagonal size of the 13-inch iPad Air models measures 12.9". 
+For 11-inch iPad and iPad Air models diagonal screen size is 10.86" but approximated to 10.9" in marketing materials. The diagonal size of the 13-inch iPad Air models measures 12.9".
 
 ### Key Changes
 - **iPad Pro M4 (2024)**: Switch to “Tandem OLED” displays, true 13" size
