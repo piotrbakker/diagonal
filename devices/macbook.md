@@ -16,6 +16,8 @@ Complete screen specifications for MacBook models with Apple silicon.
 | MacBook Pro 14-inch (M1) | 14.2 | 3024 × 1964 | 254 | 120 |
 | MacBook Pro 13-inch (M2) | 13.3 | 2560 × 1600 | 227 | 60 |
 | MacBook Pro 13-inch (M1) | 13.3 | 2560 × 1600 | 227 | 60 |
+| MacBook Air 15-inch (M4) | 15.3 | 2880 × 1864 | 224 | 60 |
+| MacBook Air 13-inch (M4) | 13.6 | 2560 × 1664 | 224 | 60 |
 | MacBook Air 15-inch (M3) | 15.3 | 2880 × 1864 | 224 | 60 |
 | MacBook Air 13-inch (M3) | 13.6 | 2560 × 1664 | 224 | 60 |
 | MacBook Air 15-inch (M2) | 15.3 | 2880 × 1864 | 224 | 60 |
