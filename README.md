@@ -7,7 +7,7 @@ Collection of select Apple and Google device screen dimensions, including iPhone
 ## Apple
 - **[iPhone](devices/iphone.md)** — All modern iPhone models (iPhone X and newer)
 - **[iPad](devices/ipad.md)** — iPad mini, iPad, iPad Air, and iPad Pro (2018 onwards)
-- **[MacBook](devices/macbook.md)** — MacBook Air and Pro models with Apple silicon 
+- **[MacBook](devices/macbook.md)** — MacBook Air and Pro models with Apple silicon
 - **[Apple Watch](devices/apple-watch.md)** — All Apple Watch series and sizes (Series 4 and newer)
 
 ## Google
@@ -26,8 +26,8 @@ Collection of select Apple and Google device screen dimensions, including iPhone
 
 ## Formats
 
-- **[Markdown](devices)**
-- **[JSON](data)**
+- **[Markdown](markdown)**
+- **[JSON](json)**
 
 ## Quick Reference
 
