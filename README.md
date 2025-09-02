@@ -28,6 +28,7 @@ Collection of select Apple and Google device screen dimensions, including iPhone
 
 - **[Markdown](markdown)**
 - **[JSON](json)**
+- **[CSV](csv)**
 
 ## Quick Reference
 
