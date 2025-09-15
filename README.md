@@ -5,15 +5,15 @@ Collection of select Apple and Google device screen dimensions, including iPhone
 ## Devices Covered
 
 ## Apple
-- **[iPhone](devices/iphone.md)** — All modern iPhone models (iPhone X and newer)
-- **[iPad](devices/ipad.md)** — iPad mini, iPad, iPad Air, and iPad Pro (2018 onwards)
-- **[MacBook](devices/macbook.md)** — MacBook Air and Pro models with Apple silicon
-- **[Apple Watch](devices/apple-watch.md)** — All Apple Watch series and sizes (Series 4 and newer)
+- **[iPhone](markdown/iphone.md)** — All modern iPhone models (iPhone X and newer)
+- **[iPad](markdown/ipad.md)** — iPad mini, iPad, iPad Air, and iPad Pro (2018 onwards)
+- **[MacBook](markdown/macbook.md)** — MacBook Air and Pro models with Apple silicon
+- **[Apple Watch](markdown/apple-watch.md)** — All Apple Watch series and sizes (Series 4 and newer)
 
 ## Google
-- **[Pixel](devices/pixel-phone.md#pixel-phone)** — Pixel 6–10
-- **[Pixel Fold](devices/pixel-phone.md#pixel-fold)** — All foldable models
-- **[Pixel Watch](devices/pixel-watch.md)** — Pixel Watch 1–4
+- **[Pixel](markdown/pixel-phone.md#pixel-phone)** — Pixel 6–10
+- **[Pixel Fold](markdown/pixel-phone.md#pixel-fold)** — All foldable models
+- **[Pixel Watch](markdown/pixel-watch.md)** — Pixel Watch 1–4
 
 ## What’s Included
 - **Size** — Diagonal screen size in inches (or millimeters, in case of Apple Watch)
@@ -41,7 +41,7 @@ Collection of select Apple and Google device screen dimensions, including iPhone
 | iPhone 16 | 6.1 | 1179 × 2556 | 393 × 852 | 460 | 60 |
 | iPhone 16e | 6.1 | 1170 × 2532 | 390 × 844 | 460 | 60 |
 
-[View all iPhone specifications →](devices/iphone.md)
+[View all iPhone specifications →](markdown/iphone.md)
 
 ### Apple Watch
 | Model | Size (mm) | Resolution (px) | Resolution (pt) | PPI | Max. Refresh Rate (Hz)|
@@ -52,7 +52,7 @@ Collection of select Apple and Google device screen dimensions, including iPhone
 | SE (2nd gen.) | 44 | 368 × 448 | 184 × 224 | 326 | 60 |
 | SE (2nd gen.) | 40 | 324 × 394 | 162 × 197 | 326 | 60 |
 
-[View all Apple Watch specifications →](devices/apple-watch.md)
+[View all Apple Watch specifications →](markdown/apple-watch.md)
 
 ### iPad
 | Model | Size (in) | Resolution (px) | Resolution (pt) | PPI | Max. Refresh Rate (Hz) |
@@ -64,7 +64,7 @@ Collection of select Apple and Google device screen dimensions, including iPhone
 | iPad (A16) | 10.9 | 2360 × 1640 | 1180 × 820 | 264 | 60 |
 | iPad mini (6th gen.) | 8.3 | 2266 × 1488 | 1133 × 744 | 326 | 60 |
 
-[View all iPad specifications →](devices/ipad.md)
+[View all iPad specifications →](markdown/ipad.md)
 
 
 ### MacBook
@@ -75,7 +75,7 @@ Collection of select Apple and Google device screen dimensions, including iPhone
 | MacBook Air 15-inch (M4) | 15.3 | 2880 × 1864 | 1440 × 932 | 224 | 60 |
 | MacBook Air 13-inch (M4) | 13.6 | 2560 × 1664 | 1280 × 832 | 224 | 60 |
 
-[View all MacBook specifications →](devices/macbook.md)
+[View all MacBook specifications →](markdown/macbook.md)
 
 ### Pixel
 | Model | Size (in) | Resolution (px) | PPI | Max. Refresh Rate (Hz) |
@@ -84,7 +84,7 @@ Collection of select Apple and Google device screen dimensions, including iPhone
 | Pixel 10 Pro | 6.3 | 1280 × 2856 | 495 | 120 |
 | Pixel 10 | 6.3 | 1080 × 2424 | 422 | 120 |
 
-[View all Pixel phone specifications →](devices/pixel-phone.md#pixel-phone)
+[View all Pixel phone specifications →](markdown/pixel-phone.md#pixel-phone)
 
 ### Pixel Fold
 | Model | Display | Size (in) | Resolution (px) | PPI | Max. Refresh Rate (Hz) |
@@ -92,7 +92,7 @@ Collection of select Apple and Google device screen dimensions, including iPhone
 | Pixel 10 Pro Fold | External | 6.4 | 1080 × 2364 | 408 | 120 |
 | Pixel 10 Pro Fold | Internal | 8.0 | 2076 × 2152 | 373 | 120 |
 
-[View all Pixel Fold specifications →](devices/pixel-phone.md#pixel-fold)
+[View all Pixel Fold specifications →](markdown/pixel-phone.md#pixel-fold)
 
 ## Sources
 - [Apple Technical Specifications](https://support.apple.com/specs/)
