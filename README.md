@@ -35,10 +35,10 @@ Collection of select Apple and Google device screen dimensions, including iPhone
 ### iPhone
 | Model | Size (in) | Resolution (px) | Resolution (pt) | PPI | Max. Refresh Rate (Hz)|
 |-------|-----------|-----------------|-----------------|-----|-----------------------|
-| iPhone 16 Pro Max | 6.9 | 1320 × 2868 | 440 × 956 | 460 | 120 |
-| iPhone 16 Pro | 6.3 | 1206 × 2622 | 402 × 874 | 460 | 120 |
-| iPhone 16 Plus | 6.7 | 1290 × 2796 | 430 × 932 | 460 | 60 |
-| iPhone 16 | 6.1 | 1179 × 2556 | 393 × 852 | 460 | 60 |
+| iPhone 17 Pro Max | 6.9 | 1320 × 2868 | 440 × 956 | 460 | 120 |
+| iPhone 17 Pro | 6.3 | 1206 × 2622 | 402 × 874 | 460 | 120 |
+| iPhone 17 | 6.3 | 1206 × 2622 | 402 × 874 | 460 | 120 |
+| iPhone Air | 6.5 | 1260 × 2736 | 420 × 912 | 460 | 120 |
 | iPhone 16e | 6.1 | 1170 × 2532 | 390 × 844 | 460 | 60 |
 
 [View all iPhone specifications →](markdown/iphone.md)
@@ -46,11 +46,11 @@ Collection of select Apple and Google device screen dimensions, including iPhone
 ### Apple Watch
 | Model | Size (mm) | Resolution (px) | Resolution (pt) | PPI | Max. Refresh Rate (Hz)|
 |-------|-----------|-----------------|-----------------|-----|-----------------------|
-| Ultra 2 | 49 | 410 × 502 | 205 × 251 | 338 | 60 |
-| Series 10 | 46 | 416 × 496 | 208 × 248 | 330 | 60 |
-| Series 10 | 42 | 374 × 446 | 187 × 223 | 330 | 60 |
-| SE (2nd gen.) | 44 | 368 × 448 | 184 × 224 | 326 | 60 |
-| SE (2nd gen.) | 40 | 324 × 394 | 162 × 197 | 326 | 60 |
+| Ultra 3 | 49 | 422 × 514 | 211 × 257 | 326 | 60 |
+| Series 11 | 46 | 416 × 496 | 208 × 248 | 326 | 60 |
+| Series 11 | 42 | 374 × 446 | 187 × 223 | 326 | 60 |
+| SE (3rd gen.) | 44 | 368 × 448 | 184 × 224 | 326 | 60 |
+| SE (3rd gen.) | 40 | 324 × 394 | 162 × 197 | 326 | 60 |
 
 [View all Apple Watch specifications →](markdown/apple-watch.md)
 
@@ -65,7 +65,6 @@ Collection of select Apple and Google device screen dimensions, including iPhone
 | iPad mini (6th gen.) | 8.3 | 2266 × 1488 | 1133 × 744 | 326 | 60 |
 
 [View all iPad specifications →](markdown/ipad.md)
-
 
 ### MacBook
 | Model | Size (in) | Resolution (px) | Resolution (pt) | PPI | Max. Refresh Rate (Hz) |
@@ -100,4 +99,4 @@ Collection of select Apple and Google device screen dimensions, including iPhone
 - [Pixel Watch Technical Specifications](https://support.google.com/googlepixelwatch/answer/12651869)
 ---
 
-Last updated: August 31, 2025
+Last updated: September 19, 2025

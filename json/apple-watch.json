@@ -1,5 +1,14 @@
 [
   {
+    "model": "Ultra 3",
+    "case_size_mm": 49,
+    "display_area_mm2": 1245,
+    "resolution_pixels": [422, 514],
+    "resolution_points": [211, 257],
+    "ppi": 326,
+    "max_refresh_rate": 60
+  },
+  {
     "model": "Ultra 2",
     "case_size_mm": 49,
     "display_area_mm2": 1185,
@@ -15,6 +24,24 @@
     "resolution_pixels": [410, 502],
     "resolution_points": [205, 251],
     "ppi": 338,
+    "max_refresh_rate": 60
+  },
+  {
+    "model": "Series 11",
+    "case_size_mm": 46,
+    "display_area_mm2": 1220,
+    "resolution_pixels": [416, 496],
+    "resolution_points": [208, 248],
+    "ppi": 326,
+    "max_refresh_rate": 60
+  },
+  {
+    "model": "Series 11",
+    "case_size_mm": 42,
+    "display_area_mm2": 989,
+    "resolution_pixels": [374, 446],
+    "resolution_points": [187, 223],
+    "ppi": 326,
     "max_refresh_rate": 60
   },
   {
@@ -136,6 +163,24 @@
   },
   {
     "model": "Series 4",
+    "case_size_mm": 40,
+    "display_area_mm2": 759,
+    "resolution_pixels": [324, 394],
+    "resolution_points": [162, 197],
+    "ppi": 326,
+    "max_refresh_rate": 60
+  },
+  {
+    "model": "SE (3rd gen.)",
+    "case_size_mm": 44,
+    "display_area_mm2": 977,
+    "resolution_pixels": [368, 448],
+    "resolution_points": [184, 224],
+    "ppi": 326,
+    "max_refresh_rate": 60
+  },
+  {
+    "model": "SE (3rd gen.)",
     "case_size_mm": 40,
     "display_area_mm2": 759,
     "resolution_pixels": [324, 394],

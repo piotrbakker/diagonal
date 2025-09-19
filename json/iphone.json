@@ -1,5 +1,37 @@
 [
     {
+      "model": "iPhone 17 Pro Max",
+      "diagonal_inches": 6.9,
+      "resolution_pixels": [1320, 2868],
+      "resolution_points": [440, 956],
+      "ppi": 460,
+      "max_refresh_rate": 120
+    },
+    {
+      "model": "iPhone 17 Pro",
+      "diagonal_inches": 6.3,
+      "resolution_pixels": [1206, 2622],
+      "resolution_points": [402, 874],
+      "ppi": 460,
+      "max_refresh_rate": 120
+    },
+    {
+      "model": "iPhone 17",
+      "diagonal_inches": 6.3,
+      "resolution_pixels": [1206, 2622],
+      "resolution_points": [402, 874],
+      "ppi": 460,
+      "max_refresh_rate": 120
+    },
+    {
+      "model": "iPhone Air",
+      "diagonal_inches": 6.5,
+      "resolution_pixels": [1260, 2736],
+      "resolution_points": [420, 912],
+      "ppi": 460,
+      "max_refresh_rate": 120
+    },
+    {
       "model": "iPhone 16 Pro Max",
       "diagonal_inches": 6.9,
       "resolution_pixels": [1320, 2868],

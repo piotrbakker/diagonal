@@ -1,4 +1,8 @@
 model,diagonal_inches,resolution_width_px,resolution_height_px,resolution_width_pt,resolution_height_pt,ppi,max_refresh_rate
+iPhone 17 Pro Max,6.9,1320,2868,440,956,460,120
+iPhone 17 Pro,6.3,1206,2622,402,874,460,120
+iPhone 17,6.3,1206,2622,402,874,460,120
+iPhone Air,6.5,1260,2736,420,912,460,120
 iPhone 16 Pro Max,6.9,1320,2868,440,956,460,120
 iPhone 16 Pro,6.3,1206,2622,402,874,460,120
 iPhone 16 Plus,6.7,1290,2796,430,932,460,60

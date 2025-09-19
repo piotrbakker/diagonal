@@ -6,6 +6,10 @@ Complete screen specifications for modern iPhone models.
 
 | Model | Diagonal Size (in) | Resolution (px) | Resolution (pt) | PPI | Max. Refresh Rate (Hz) |
 |-------|--------------------|-----------------|-----------------|-----|------------------------|
+| iPhone 17 Pro Max | 6.9 | 1320 × 2868 | 440 × 956 | 460 | 120 |
+| iPhone 17 Pro | 6.3 | 1206 × 2622 | 402 × 874 | 460 | 120 |
+| iPhone 17 | 6.3 | 1206 × 2622 | 402 × 874 | 460 | 120 |
+| iPhone Air | 6.5 | 1260 × 2736 | 420 × 912 | 460 | 120 |
 | iPhone 16 Pro Max | 6.9 | 1320 × 2868 | 440 × 956 | 460 | 120 |
 | iPhone 16 Pro | 6.3 | 1206 × 2622 | 402 × 874 | 460 | 120 |
 | iPhone 16 Plus | 6.7 | 1290 × 2796 | 430 × 932 | 460 | 60 |
