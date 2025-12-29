@@ -1,5 +1,13 @@
 [
   {
+    "model": "iPad Pro 13-inch (M5)",
+    "diagonal_inches": 13.0,
+    "resolution_pixels": [2752, 2064],
+    "resolution_points": [1376, 1032],
+    "ppi": 264,
+    "max_refresh_rate": 120
+  },
+  {
     "model": "iPad Pro 13-inch (M4)",
     "diagonal_inches": 13.0,
     "resolution_pixels": [2752, 2064],
@@ -20,6 +28,14 @@
     "diagonal_inches": 12.9,
     "resolution_pixels": [2732, 2048],
     "resolution_points": [1366, 1024],
+    "ppi": 264,
+    "max_refresh_rate": 120
+  },
+  {
+    "model": "iPad Pro 11-inch (M5)",
+    "diagonal_inches": 11.1,
+    "resolution_pixels": [2420, 1668],
+    "resolution_points": [1210, 834],
     "ppi": 264,
     "max_refresh_rate": 120
   },

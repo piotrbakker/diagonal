@@ -8,6 +8,14 @@
     "max_refresh_rate": 120
   },
   {
+    "model": "MacBook Pro 14-inch (M5)",
+    "diagonal_inches": 14.2,
+    "resolution_pixels": [3024, 1964],
+    "resolution_points": [1512, 982],
+    "ppi": 254,
+    "max_refresh_rate": 120
+  },
+  {
     "model": "MacBook Pro 14-inch (M4)",
     "diagonal_inches": 14.2,
     "resolution_pixels": [3024, 1964],
