@@ -57,8 +57,8 @@ Collection of select Apple and Google device screen dimensions, including iPhone
 ### iPad
 | Model | Size (in) | Resolution (px) | Resolution (pt) | PPI | Max. Refresh Rate (Hz) |
 |-------|-----------|-----------------|-----------------|-----|------------------------|
-| iPad Pro 13-inch (M4) | 13.0 | 2752 × 2064 | 1376 × 1032 | 264 | 120 |
-| iPad Pro 11-inch (M4) | 11.1 | 2420 × 1668 | 1210 × 834 | 264 | 120 |
+| iPad Pro 13-inch (M5) | 13.0 | 2752 × 2064 | 1376 × 1032 | 264 | 120 |
+| iPad Pro 11-inch (M5) | 11.1 | 2420 × 1668 | 1210 × 834 | 264 | 120 |
 | iPad Air 13-inch (M3) | 12.9 | 2732 × 2048 | 1366 × 1024 | 264 | 60 |
 | iPad Air 11-inch (M3) | 10.9 | 2360 × 1640 | 1180 × 820 | 264 | 60 |
 | iPad (A16) | 10.9 | 2360 × 1640 | 1180 × 820 | 264 | 60 |
@@ -70,7 +70,7 @@ Collection of select Apple and Google device screen dimensions, including iPhone
 | Model | Size (in) | Resolution (px) | Resolution (pt) | PPI | Max. Refresh Rate (Hz) |
 |-------|-----------|-----------------|-----------------|-----|------------------------|
 | MacBook Pro 16-inch (M4) | 16.2 | 3456 × 2234 | 1728 × 1117 | 254 | 120 |
-| MacBook Pro 14-inch (M4) | 14.2 | 3024 × 1964 | 1512 × 982 | 254 | 120 |
+| MacBook Pro 14-inch (M5) | 14.2 | 3024 × 1964 | 1512 × 982 | 254 | 120 |
 | MacBook Air 15-inch (M4) | 15.3 | 2880 × 1864 | 1440 × 932 | 224 | 60 |
 | MacBook Air 13-inch (M4) | 13.6 | 2560 × 1664 | 1280 × 832 | 224 | 60 |
 
@@ -99,4 +99,4 @@ Collection of select Apple and Google device screen dimensions, including iPhone
 - [Pixel Watch Technical Specifications](https://support.google.com/googlepixelwatch/answer/12651869)
 ---
 
-Last updated: September 19, 2025
+Last updated: December 28, 2025
