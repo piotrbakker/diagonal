@@ -224,19 +224,19 @@
       "max_refresh_rate": 60
     },
     {
-      "model": "iPhone X",
-      "diagonal_inches": 5.8,
-      "resolution_pixels": [1125, 2436],
-      "resolution_points": [375, 812],
-      "ppi": 458,
-      "max_refresh_rate": 60
-    },
-    {
       "model": "iPhone XR",
       "diagonal_inches": 6.1,
       "resolution_pixels": [828, 1792],
       "resolution_points": [414, 896],
       "ppi": 326,
+      "max_refresh_rate": 60
+    },
+    {
+      "model": "iPhone X",
+      "diagonal_inches": 5.8,
+      "resolution_pixels": [1125, 2436],
+      "resolution_points": [375, 812],
+      "ppi": 458,
       "max_refresh_rate": 60
     }
 ]
