@@ -32,6 +32,14 @@
       "max_refresh_rate": 120
     },
     {
+      "model": "iPhone 17e",
+      "diagonal_inches": 6.1,
+      "resolution_pixels": [1170, 2532],
+      "resolution_points": [390, 844],
+      "ppi": 460,
+      "max_refresh_rate": 60
+    },
+    {
       "model": "iPhone 16 Pro Max",
       "diagonal_inches": 6.9,
       "resolution_pixels": [1320, 2868],
