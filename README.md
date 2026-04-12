@@ -30,6 +30,10 @@ Collection of select Apple and Google device screen dimensions, including iPhone
 - **[JSON](json)**
 - **[CSV](csv)**
 
+## Ordering
+
+Devices are ordered by generation (newest first), then by tier or size within each generation. Exception: MacBook models are ordered by screen size within each product line (largest first), then by generation within each size (newest first). This makes it easier to see how specific screen sizes compare across chip generations, given that different MacBook models may receive chip updates at different times.
+
 ## Quick Reference
 
 ### iPhone
