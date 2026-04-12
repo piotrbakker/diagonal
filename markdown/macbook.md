@@ -27,7 +27,7 @@ Complete screen specifications for MacBook models with Apple silicon.
 | MacBook Air 13-inch (M3) | 13.6 | 2560 × 1664 | 1280 × 832 |224 | 60 |
 | MacBook Air 13-inch (M2) | 13.6 | 2560 × 1664 | 1280 × 832 |224 | 60 |
 | MacBook Air 13-inch (M1) | 13.3 | 2560 × 1600 | 1280 × 800 |227 | 60 |
-| MacBook Neo | 13.0 | 2408 × 1506 | 1204 × 753 | 219 | 60 |
+| MacBook Neo (A18 Pro) | 13.0 | 2408 × 1506 | 1204 × 753 | 219 | 60 |
 
 ## Notes
 

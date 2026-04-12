@@ -168,7 +168,7 @@
     "max_refresh_rate": 60
   },
   {
-    "model": "MacBook Neo",
+    "model": "MacBook Neo (A18 Pro)",
     "diagonal_inches": 13.0,
     "resolution_pixels": [2408, 1506],
     "resolution_points": [1204, 753],

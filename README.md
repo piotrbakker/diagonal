@@ -73,7 +73,7 @@ Collection of select Apple and Google device screen dimensions, including iPhone
 | MacBook Pro 14-inch (M5) | 14.2 | 3024 × 1964 | 1512 × 982 | 254 | 120 |
 | MacBook Air 15-inch (M5) | 15.3 | 2880 × 1864 | 1440 × 932 | 224 | 60 |
 | MacBook Air 13-inch (M5) | 13.6 | 2560 × 1664 | 1280 × 832 | 224 | 60 |
-| MacBook Neo | 13.0 | 2408 × 1506 | 1204 × 753 | 219 | 60 |
+| MacBook Neo (A18 Pro) | 13.0 | 2408 × 1506 | 1204 × 753 | 219 | 60 |
 
 [View all MacBook specifications →](markdown/macbook.md)
 
