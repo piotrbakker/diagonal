@@ -7,12 +7,12 @@ Complete screen specifications for modern iPad models.
 | Model | Diagonal Size (in) | Resolution (px) | Resolution (pt) | PPI | Max. Refresh Rate (Hz) |
 |-------|--------------------|-----------------|-----------------|-----|------------------------|
 | iPad Pro 13-inch (M5) | 13.0 | 2752 × 2064 | 1376 × 1032 | 264 | 120 |
-| iPad Pro 13-inch (M4) | 13.0 | 2752 × 2064 | 1376 × 1032 | 264 | 120 |
-| iPad Pro 12.9-inch (5th gen.) | 12.9 | 2732 × 2048 | 1366 × 1024 | 264 | 120 |
-| iPad Pro 12.9-inch (4th gen.) | 12.9 | 2732 × 2048 | 1366 × 1024 | 264 | 120 |
 | iPad Pro 11-inch (M5) | 11.1 | 2420 × 1668 | 1210 × 834 | 264 | 120 |
+| iPad Pro 13-inch (M4) | 13.0 | 2752 × 2064 | 1376 × 1032 | 264 | 120 |
 | iPad Pro 11-inch (M4) | 11.1 | 2420 × 1668 | 1210 × 834 | 264 | 120 |
+| iPad Pro 12.9-inch (5th gen.) | 12.9 | 2732 × 2048 | 1366 × 1024 | 264 | 120 |
 | iPad Pro 11-inch (3rd gen.) | 11.0 | 2388 × 1668 | 1194 × 834 | 264 | 120 |
+| iPad Pro 12.9-inch (4th gen.) | 12.9 | 2732 × 2048 | 1366 × 1024 | 264 | 120 |
 | iPad Pro 11-inch (2nd gen.) | 11.0 | 2388 × 1668 | 1194 × 834 | 264 | 120 |
 | iPad Pro 11-inch (1st gen.) | 11.0 | 2388 × 1668 | 1194 × 834 | 264 | 120 |
 | iPad Air 13-inch (M3) | 12.9 | 2732 × 2048 | 1366 × 1024 | 264 | 60 |
